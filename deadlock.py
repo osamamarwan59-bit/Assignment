@@ -1,1 +1,2 @@
 deadlock
+print(hello)
